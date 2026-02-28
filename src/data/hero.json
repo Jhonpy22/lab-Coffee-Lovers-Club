@@ -1,0 +1,13 @@
+{
+  "badge": "Membresía mensual · Cupos limitados",
+  "title": "Coffee Lovers Club",
+  "headline": "Tu café de especialidad, cada mes.",
+  "subtitle": "Granos seleccionados, tueste reciente, catas guiadas y beneficios exclusivos para amantes del café.",
+  "primaryCta": { "label": "Ver planes", "href": "#planes" },
+  "secondaryCta": { "label": "Explorar beneficios", "href": "#beneficios" },
+  "stats": [
+    { "value": "+12", "label": "cafés al año" },
+    { "value": "-15%", "label": "descuento miembros" },
+    { "value": "1", "label": "cata mensual" }
+  ]
+}
